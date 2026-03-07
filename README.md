@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Igor Pawelec</h1>
+<h1 align="center">Hey there! 👋 I'm Igor</h1>
 
 <p align="center">
   <b>PhD Student</b> · Forestry × Remote Sensing × Geospatial Tools<br>
