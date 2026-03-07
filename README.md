@@ -1,45 +1,58 @@
-# Hey there! 👋
+<h1 align="center">Hey there! 👋 I'm Igor Pawelec</h1>
 
-I'm **Igor Pawelec** — a PhD student at the [University of Agriculture in Krakow](https://urk.edu.pl), Faculty of Forestry, Department of Forest Resources Management. I'm also a technician at the [Geospatial and Environmental Analytics Center (CIGiS)](https://cigis.urk.edu.pl/) at UAK. 
+<p align="center">
+  <b>PhD Student</b> · Forestry × Remote Sensing × Geospatial Tools<br>
+  <a href="https://urk.edu.pl">University of Agriculture in Krakow</a> · Faculty of Forestry · Dept. of Forest Resources Management<br>
+  Technician at the <a href="https://cigis.urk.edu.pl/">Geospatial and Environmental Analytics Center (CIGiS)</a>
+</p>
 
-I work at the intersection of **forestry**, **remote sensing**, and **geospatial tools**.
+<p align="center">
+  <a href="https://orcid.org/0009-0005-9798-3596"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
+  <a href="https://scholar.google.com/citations?user=Th30ajYAAAAJ&hl=pl"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/></a>
+  <a href="https://www.researchgate.net/profile/Igor-Pawelec-2"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/igor-pawelec-5717b824b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://kzzl.urk.edu.pl/pracownicy/pawelec-24.html"><img src="https://img.shields.io/badge/University_Website-2E7D32?style=flat-square&logo=google-scholar&logoColor=white"/></a>
+</p>
 
-## 🌲 What I do
+---
 
-My PhD research is all about understanding how environmental factors (drought, climate shifts, stand density) affect tree health and mortality — using remote sensing data and modern data analysis.
+### 🌲 What I do
 
-I specialize in **Object-Based Image Analysis (OBIA)**, superpixel segmentation, and building Python tools that make geospatial workflows easier and more reproducible. I'm also exploring **deep learning** approaches for standing dead tree detection — comparing instance segmentation (Mask R-CNN) with classical OBIA methods to see which better captures crown boundaries from aerial imagery.
+My PhD focuses on how **environmental factors** (drought, climate, stand density) drive tree health decline and mortality — analyzed through remote sensing. I specialize in **OBIA**, superpixel segmentation, and **deep learning** for standing dead tree detection (Mask R-CNN vs classical OBIA).
 
-## 🔧 What I'm building
+### 🔧 What I'm building
 
-**[plGeoAdaptels](https://github.com/igorpawelec/plGeoAdaptels)** — A Numba-accelerated Python reimplementation of the scale-adaptive superpixel algorithm (Adaptels) for geospatial raster data. Think SLIC, but the segments adapt their size to image content — no need to specify superpixel count upfront.
+| | Package | What it does |
+|---|---|---|
+| 🧩 | **[plGeoAdaptels](https://github.com/igorpawelec/plGeoAdaptels)** | Numba-accelerated scale-adaptive superpixels (Adaptels) for geospatial rasters |
+| 🌳 | **[PyCrown Simplified](https://github.com/igorpawelec/pycrown_simplified)** | Individual tree crown segmentation from CHM (Dalponte + Region Growing) |
+| 🎨 | **[GeoPalette](https://github.com/igorpawelec/GeoPalette)** | Pure-NumPy RGB → 14 color spaces (CIELAB, Oklab, Jzazbz…) for raster data |
 
-**[PyCrown Simplified](https://github.com/igorpawelec/pycrown_simplified)** — Individual tree crown segmentation from Canopy Height Models. Implements Dalponte and Hierarchical Region Growing methods. Designed to be lightweight and easy to plug into your pipeline.
+### 📄 Recent publication
 
-**[GeoPalette](https://github.com/igorpawelec/GeoPalette)** — Pure-NumPy color space conversions for geospatial raster data. Converts RGB bands into 14 color spaces (CIELAB, Oklab, Jzazbz, HSV, and more) commonly used in image segmentation. Fully vectorized, no pixel-level loops.
+> **Pawelec, I.**, Hawryło, P., Netzel, P., & Socha, J. (2026). *Evaluating superpixel algorithms for standing dead tree delineation using aerial orthoimagery.* **JAG**, 147, 105180. [doi:10.1016/j.jag.2026.105180](https://doi.org/10.1016/j.jag.2026.105180)
 
-## 📄 Recent publications
+### 🛠️ Tech & tools
 
-**Pawelec, I.**, Hawryło, P., Netzel, P., & Socha, J. (2026). *Evaluating superpixel algorithms for standing dead tree delineation using aerial orthoimagery.* International Journal of Applied Earth Observation and Geoinformation, 147, 105180. https://doi.org/10.1016/j.jag.2026.105180
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-## 🛠️ Tech & tools
+<details>
+<summary>+ more tools I use daily</summary>
+<br>
+<code>Numba</code> · <code>rasterio</code> · <code>scikit-learn</code> · <code>scikit-image</code> · <code>ArcGIS Pro</code> · <code>eCognition</code> · <code>CloudCompare</code> · <code>Agisoft Metashape</code>
+</details>
 
-`Python` · `R` · `Numba` · `rasterio` · `scikit-learn` · `scikit-image` · `PyTorch` · `QGIS` · `ArcGIS Pro` · `eCognition` · `CloudCompare` · `Agisoft Metashape` · `SQL`
+### 🎓 Background
 
-## 🎓 Background
+🎓 **PhD** (2023–…) — *Assessment of environmental factors on tree health & mortality using remote sensing* · UAK<br>
+📜 **MSc** (2022–2023) — Forestry, Geoinformatics in Forestry · UAK<br>
+📜 **BSc Eng** (2018–2022) — Forestry · UWM Olsztyn
 
-- 2023 - .... - PhD started — thesis: *"Assessment of the impact of environmental factors on tree health and mortality dynamics using remote sensing data"*
-- 2022 - 2023 - **MSc** in Forestry (Geoinformatics in Forestry), University of Agriculture in Krakow
-- 2018 - 2022 - **BSc Eng** in Forestry, University of Warmia and Mazury in Olsztyn
+### 🌍 Community
 
-## 🌍 Community
-
-**Secretary Officer** of the [IEEE GRSS Poland Chapter](https://www.grss-ieee.pl/) · Member of [Polish Forestry Society (Committee of Geomatics)](https://www.kgeo.ptl.pl/) · Member of Polish Geographical Society (Remote Sensing Division) · Member of OSGeo Chapter Poland
-
-## 📬 Get in touch!
-
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-9798-3596)
-[![University](https://img.shields.io/badge/My_University_Website-2E7D32?style=for-the-badge&logo=google-scholar&logoColor=white)](https://kzzl.urk.edu.pl/pracownicy/pawelec-24.html)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Igor-Pawelec-2)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Th30ajYAAAAJ&hl=pl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-pawelec-5717b824b/)
+**Secretary Officer** · [IEEE GRSS Poland Chapter](https://www.grss-ieee.pl/) · [PTL Committee of Geomatics](https://www.kgeo.ptl.pl/) · PTG Remote Sensing Division · OSGeo Poland
