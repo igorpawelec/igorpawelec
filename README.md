@@ -28,7 +28,7 @@ My PhD focuses on how **environmental factors** (drought, climate, stand density
 | 🌳 | **[PyCrown Simplified](https://github.com/igorpawelec/pycrown_simplified)** | Individual tree crown segmentation from CHM (Dalponte + Region Growing) |
 | 🎨 | **[GeoPalette](https://github.com/igorpawelec/GeoPalette)** | Pure-NumPy RGB → 14 color spaces (CIELAB, Oklab, Jzazbz…) for raster data |
 
-### 📄 Recent publication
+### 📄 Recent publications
 
 > **Pawelec, I.**, Hawryło, P., Netzel, P., & Socha, J. (2026). *Evaluating superpixel algorithms for standing dead tree delineation using aerial orthoimagery.* **JAG**, 147, 105180. [doi:10.1016/j.jag.2026.105180](https://doi.org/10.1016/j.jag.2026.105180)
 
@@ -47,12 +47,6 @@ My PhD focuses on how **environmental factors** (drought, climate, stand density
 <code>Numba</code> · <code>rasterio</code> · <code>scikit-learn</code> · <code>scikit-image</code> · <code>ArcGIS Pro</code> · <code>eCognition</code> · <code>CloudCompare</code> · <code>Agisoft Metashape</code>
 </details>
 
-### 🎓 Background
-
-🎓 **PhD** (2023–…) — *Assessment of environmental factors on tree health & mortality using remote sensing* · UAK<br>
-📜 **MSc** (2022–2023) — Forestry, Geoinformatics in Forestry · UAK<br>
-📜 **BSc Eng** (2018–2022) — Forestry · UWM Olsztyn
-
 ### 🌍 Community
 
-**Secretary Officer** · [IEEE GRSS Poland Chapter](https://www.grss-ieee.pl/) · [PTL Committee of Geomatics](https://www.kgeo.ptl.pl/) · PTG Remote Sensing Division · OSGeo Poland
+[IEEE GRSS Poland Chapter](https://www.grss-ieee.pl/) (**Secretary Officer**) · [Polish Forest Society (Committee of Geomatics)](https://www.kgeo.ptl.pl/) (Member) · Polish Geographical Society (Remote Sensing Division) (Member) · OSGeo Chapter Poland (Member)
