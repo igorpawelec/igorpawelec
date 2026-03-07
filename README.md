@@ -20,14 +20,6 @@
 
 My PhD focuses on how **environmental factors** (drought, climate, stand density) drive tree health decline and mortality — analyzed through remote sensing. I specialize in **OBIA**, superpixel segmentation, and **deep learning** for standing dead tree detection (Mask R-CNN vs classical OBIA).
 
-### 🔧 What I'm building
-
-| | Package | What it does |
-|---|---|---|
-| 🧩 | **[plGeoAdaptels](https://github.com/igorpawelec/plGeoAdaptels)** | Numba-accelerated scale-adaptive superpixels (Adaptels) for geospatial rasters |
-| 🌳 | **[PyCrown Simplified](https://github.com/igorpawelec/pycrown_simplified)** | Individual tree crown segmentation from CHM (Dalponte + Region Growing) |
-| 🎨 | **[GeoPalette](https://github.com/igorpawelec/GeoPalette)** | Pure-NumPy RGB → 14 color spaces (CIELAB, Oklab, Jzazbz…) for raster data |
-
 ### 📄 Recent publications
 
 > **Pawelec, I.**, Hawryło, P., Netzel, P., & Socha, J. (2026). *Evaluating superpixel algorithms for standing dead tree delineation using aerial orthoimagery.* **JAG**, 147, 105180. [doi:10.1016/j.jag.2026.105180](https://doi.org/10.1016/j.jag.2026.105180)
@@ -50,3 +42,13 @@ My PhD focuses on how **environmental factors** (drought, climate, stand density
 ### 🌍 Community
 
 [IEEE GRSS Poland Chapter](https://www.grss-ieee.pl/) (**Secretary Officer**) · [Polish Forest Society - Committee of Geomatics](https://www.kgeo.ptl.pl/) (Member) · [Polish Geographical Society - Remote Sensing Division](https://ptgeo.org.pl/teledetekcja/) (Member) · [OSGeo Chapter Poland](https://www.osgeo.org/local-chapters/osgeo-poland/) (Member)
+
+### 🔧 What I'm building
+
+| | Package | What it does |
+|---|---|---|
+| 🧩 | **[plGeoAdaptels](https://github.com/igorpawelec/plGeoAdaptels)** | Numba-accelerated scale-adaptive superpixels (Adaptels) for geospatial rasters |
+| 🌳 | **[PyCrown Simplified](https://github.com/igorpawelec/pycrown_simplified)** | Individual tree crown segmentation from CHM (Dalponte + Region Growing) |
+| 🎨 | **[GeoPalette](https://github.com/igorpawelec/GeoPalette)** | Pure-NumPy RGB → 14 color spaces (CIELAB, Oklab, Jzazbz…) for raster data |
+
+
