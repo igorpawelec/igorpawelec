@@ -45,10 +45,4 @@ My PhD focuses on how **environmental factors** (drought, climate, stand density
 
 ### 🔧 What I'm building
 
-| | Package | What it does |
-|---|---|---|
-| 🧩 | **[plGeoAdaptels](https://github.com/igorpawelec/plGeoAdaptels)** | Numba-accelerated scale-adaptive superpixels (Adaptels) for geospatial rasters |
-| 🌳 | **[PyCrown Simplified](https://github.com/igorpawelec/pycrown_simplified)** | Individual tree crown segmentation from CHM (Dalponte + Region Growing) |
-| 🎨 | **[GeoPalette](https://github.com/igorpawelec/GeoPalette)** | Pure-NumPy RGB → 14 color spaces (CIELAB, Oklab, Jzazbz…) for raster data |
-
-
+<p align="center"><b>👇 Check out my pinned repositories below 👇</b></p>
