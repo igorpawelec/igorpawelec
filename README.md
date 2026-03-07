@@ -49,4 +49,4 @@ My PhD focuses on how **environmental factors** (drought, climate, stand density
 
 ### 🌍 Community
 
-[IEEE GRSS Poland Chapter](https://www.grss-ieee.pl/) (**Secretary Officer**) · [Polish Forest Society (Committee of Geomatics)](https://www.kgeo.ptl.pl/) (Member) · Polish Geographical Society (Remote Sensing Division) (Member) · OSGeo Chapter Poland (Member)
+[IEEE GRSS Poland Chapter](https://www.grss-ieee.pl/) (**Secretary Officer**) · [Polish Forest Society - Committee of Geomatics](https://www.kgeo.ptl.pl/) (Member) · [Polish Geographical Society - Remote Sensing Division](https://ptgeo.org.pl/teledetekcja/) (Member) · [OSGeo Chapter Poland](https://www.osgeo.org/local-chapters/osgeo-poland/) (Member)
